@@ -21,6 +21,11 @@ Please leave thumbs up and star.
 
 Using plugin is simple, in plugins bar under `Script Description` you have 3 buttons (Server Script, Local Script, Module Script)
 
+### How can this be used?
+When you press `Ctrl+Shift+F` in studio you can search for script by name or date!
+
+![alt text](https://i.imgur.com/a8K1azF.png)
+
 ## Contributing to code
 If you want to improve / edit code you're welcome to make pull request and it will be added to plugin on roblox!
 
