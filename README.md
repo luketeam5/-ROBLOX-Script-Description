@@ -7,6 +7,7 @@ Works for Server, Local and module scripts.
 
 ## Download on roblox
 Click [HERE](https://www.roblox.com/library/5939855378/ScriptDescription) to download plugin on roblox!
+Please leave thumbs up and star.
 
 ## Manual installation
 
